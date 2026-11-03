@@ -2,7 +2,7 @@
   "name": "collab-canvas-workspace",
   "version": "1.0.0",
   "description": "Real-Time Collaborative Document Canvas with Block CRDT and Multi-User Presence",
-  "author": "smay <cricketworldsamay@gmail.com>",
+  "author": "Samay Sawal <cricketworldsamay@gmail.com>",
   "license": "MIT",
   "main": "dist/server.js",
   "scripts": {
@@ -29,3 +29,4 @@
     "typescript": "^5.4.2"
   }
 }
+

@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.4%2B-blue.svg?logo=typescript)](https://www.typescriptlang.org)
 [![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-4F46E5.svg)](https://github.com/websockets/ws)
 [![CRDT](https://img.shields.io/badge/CRDT-Lamport_Ordering-brightgreen.svg)](#)
-[![Author](https://img.shields.io/badge/Author-smay-orange.svg)](https://github.com/samaysawal24)
+[![Author](https://img.shields.io/badge/Author-Samay_Sawal-orange.svg)](https://github.com/samaysawal24)
 
 A distributed real-time collaborative document and canvas editor workspace powered by Block-Based Conflict-Free Replicated Data Types (CRDTs), Lamport logical timestamps, WebSocket synchronization, multi-cursor presence awareness, and markdown serialization.
 
@@ -117,3 +117,4 @@ npm test
 - **Author:** smay ([@samaysawal24](https://github.com/samaysawal24))
 - **Email:** cricketworldsamay@gmail.com
 - **License:** Released under the [MIT License](LICENSE).
+

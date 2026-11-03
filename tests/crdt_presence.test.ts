@@ -48,3 +48,4 @@ describe("Collab Canvas Workspace CRDT & Presence Tests", () => {
     expect(active[0].userId).toBe("user_2");
   });
 });
+
