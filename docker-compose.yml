@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  collab-workspace-service:
+    build: .
+    container_name: collab-canvas-workspace
+    ports:
+      - "3002:3002"
+    environment:
+      - PORT=3002
+    restart: unless-stopped
